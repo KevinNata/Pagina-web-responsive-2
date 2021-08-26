@@ -1,0 +1,26 @@
+#menu-bar{
+    display: none;
+}
+
+.barraMenu{
+    float: right;
+}
+
+.barraIcono{
+    width:50px;
+    height:50px;
+    float: right;
+}
+
+header label{
+    float: right;
+    font-size: 28px;
+    margin : 6px 0;
+    
+}
+
+
+.hola{
+    background: black;
+
+}
